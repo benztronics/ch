@@ -1,12 +1,9 @@
-Ground Consulting
+##Ground Consulting
+![Ground Logo](http://www.groundfoundation.org/logoblk.gif)
 
-Charlie Health - Estimate
-AWS Tableau Install Options:
+**Charlie Health** - *Estimate*
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
-**This is bold text**
+**AWS Tableau Install Options**:
 
 1. Full IaC Terraform module creation / maintenance with custom cloudAdmin / SLA
 	- Based on existing Azure logic but will need to be rewritten for AWS
