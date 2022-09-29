@@ -2,7 +2,8 @@
 
 ![Ground Logo](http://www.groundfoundation.org/logoblk.gif)
 
-**Charlie Health** - *Estimate*
+
+**Charlie Health** - *Estimate* - 2022-09-29
 
 **AWS Tableau Install Options**:
 
@@ -15,6 +16,7 @@
 	- Full rewrite, build-out, and Prod delivery estimated at 60hrs($20k)
 	- Periodic touchbase meeting based on requirements
 	- SLA and long-term support to be discussed based on requirements - Estimated @ $17k / yr for one hour a week @ $325/hr
+[Network Diagram based on Azure Infrastrucure](./cloudInfrastruture.pdf)
 
 ## 2. One Click AWS install - No support
 	- Self Managed
