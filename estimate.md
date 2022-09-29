@@ -1,4 +1,4 @@
-## [Ground Consulting](mailto://consulting@begrounded.info)
+## [Grounded Consulting](mailto://consulting@begrounded.info)
 
 **Charlie Health** - *Estimate* - 2022-09-29
 
@@ -21,7 +21,7 @@
 	- Will provide light guidance and answer questions via email
 [Read about it here](https://aws.amazon.com/quickstart/architecture/tableau-server/)
 
-## 3. Hybrid One Click install with Support = ***$325/hr***
+## 3. Hybrid Automated AWS Template install with Support = ***$325/hr***
 	- Open ended consultation contract 
 	- Can work with current infrastructure team to stand up infrastructure and configure IDP
 	- Blue/Green IaC is out of scope
