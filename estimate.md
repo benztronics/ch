@@ -16,10 +16,10 @@
 [Network Diagram based on Azure Infrastrucure](./cloudInfrastructure.pdf)
 
 ## 2. One Click AWS install - No support
-[Read about it here](https://aws.amazon.com/quickstart/architecture/tableau-server/)
 	- Self Managed
 	- Most economical
 	- Will provide light guidance and answer questions via email
+[Read about it here](https://aws.amazon.com/quickstart/architecture/tableau-server/)
 
 ## 3. Hybrid One Click install with Support
 	- Open ended support contract @ $325 / hr
