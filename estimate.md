@@ -13,7 +13,7 @@
 	- Weekly touchbase meeting or as needed based on requirements
 	- SLA and long-term support to be discussed based on requirements - Estimated @ $18k / yr for one hour a week
 	- Infrastructure for Dev/Test/Stage/Prod estimated @ $80k / year ($20k / yr per environment)
-[Intrastructure Diagram](./cloudInfrastructure.pdf)
+[Infrastructure Diagram](./cloudInfrastructure.pdf)
 
 ## 2. Automated AWS Template install - No support = ***$0***
 	- Self managed
